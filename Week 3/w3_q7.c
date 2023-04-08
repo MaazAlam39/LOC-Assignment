@@ -1,0 +1,1 @@
+In C, the size of a structure is the sum of the sizes of its individual members, padded to ensure that each member starts on an appropriate alignment boundary. The size of a structure is influenced by the data types and order of the members in the structure.
