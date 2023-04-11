@@ -1,0 +1,4 @@
+6.Choose the correct statement abiut structure in cC program:
+Answer:-
+
+(b). Structure members cannot be initialized at the time of declaration
